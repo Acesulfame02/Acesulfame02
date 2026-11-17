@@ -26,9 +26,8 @@ run on.
   service sync.
 - **Infrastructure:** Kubernetes on AWS (EKS), serverless jobs, Docker, and Prometheus and
   Grafana monitoring.
-- **Security review:** systematic code review that has found and closed 60+ defects in
-  three months, including 16 high-severity authentication, transaction-integrity and
-  availability issues.
+- **Security review:** systematic code review that found and closed 42 defects in three
+  months, 10 of them high-severity authentication and transaction-integrity issues.
 
 **Founder of [Sulfame-Tech](https://github.com/Sulfame-Tech)**, where I'm building SFM TMS
 (see below).
@@ -71,12 +70,12 @@ It follows an earlier engine experiment, KapMak (2024).
 
 | | |
 |---|---|
-| Pull requests merged | **1,056** of 1,099 (96%) |
-| Commits | **2,400+** across 25+ repositories |
-| Busiest month | **192 PRs** (September 2026) |
-| Consistency | **16 months in a row** with 15+ merged PRs |
+| Pull requests merged | **1,369** of 1,416 (97%) |
+| Contributions | **5,967** on 563 active days, across 43 repositories |
+| Busiest month | **186 PRs merged** (September 2026) |
+| Backend share at work | **51%** of all commits on the backend services since May 2025 |
 
-*Most of this work is in private organisation repositories.*
+*All time, as of November 2026. Most of this work is in private organisation repositories.*
 
 ## Tech I work with
 
